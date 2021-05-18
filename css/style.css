@@ -1,0 +1,115 @@
+*{
+    margin: 0; padding: 0;
+}
+.main{
+    text-align: center;
+    color: white;
+}
+.header{
+    height: 100px;
+    width: 100%;
+    overflow: hidden;
+}
+.logo{
+    background-color: rgb(16, 16, 87);
+    height: 100px;
+    width: 25%;
+    float: left;
+}
+.logo h1{
+    color: white;
+}
+.nav{
+    background-color: teal;
+    height: 100px;
+    width: 75%;
+    float: right;
+}
+.intro_sidebar{
+    height: 250px;
+    width: 100%;
+    overflow: hidden;
+}
+.intro{
+    background-color: blueviolet;
+    height: 100%;
+    width: 25%;
+    float: left;
+}
+
+.sidebar{
+    background-color: cyan;
+    height: 100%;
+    width: 75%;
+    float: right;
+}
+.sidebar h1{
+    color:tomato
+}
+.content{
+    height: 600px;
+    background-color: tomato;
+    width: 100%;
+    overflow: hidden;
+}
+.item1{
+    margin: 1% 2%;
+    background-color: rgb(54, 50, 50);
+    height: 46%;
+    width: 22.5%;
+    float: left;
+}
+.item2{
+    margin: 1% 0% 1% 0%;
+    background-color: rgb(54, 50, 50);
+    height: 46%;
+    width: 22.5%;
+    float: left;
+}
+.item3{
+    margin: 1% 2% 1% 2%;
+    background-color: rgb(54, 50, 50);
+    height: 46%;
+    width: 22.5%;
+    float: left;
+}
+.item4{
+    margin: 1% 2% 1% 0%;
+    background-color: rgb(54, 50, 50);
+    height: 46%;
+    width: 22.5%;
+    float: left;
+}
+.item5{
+    margin: 0% 2% 1% 2%;
+    background-color: rgb(54, 50, 50);
+    height: 46%;
+    width: 22.5%;
+    float: left;
+}
+.item6{
+    margin: 0% 0% 1% 0%;
+    background-color: rgb(54, 50, 50);
+    height: 46%;
+    width: 22.5%;
+    float: left;
+}
+.item7{
+    margin: 0% 2% 1% 2%;
+    background-color: rgb(54, 50, 50);
+    height: 46%;
+    width: 22.5%;
+    float: left;
+}
+.item8{
+    margin: 0% 2% 1% 0%;
+    background-color: rgb(54, 50, 50);
+    height: 46%;
+    width: 22.5%;
+    float: left;
+}
+.footer{
+    background-color: teal;
+    height: 50px;
+    width: 100%;
+}
